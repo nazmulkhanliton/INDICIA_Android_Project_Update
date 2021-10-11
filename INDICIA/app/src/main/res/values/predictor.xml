@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="predictor_disease_symptom_array">
+        <item>Diarrhea###Loose stools###ORTHODONTICS</item>
+        <item>Diarrhea###Watery stools###GYNAECOLOGY</item>
+        <item>Diarrhea###Abdominal cramps###E.N.T.</item>
+        <item>Diarrhea###Abdominal pain###EYE OR OPHTHALMOLOGY</item>
+        <item>Diarrhea###Fever###EYE OR OPHTHALMOLOGY</item>
+        <item>Diarrhea###Blood in the stool###E.N.T.</item>
+        <item>Diarrhea###Mucus in the stool###EYE OR OPHTHALMOLOGY</item>
+        <item>Diarrhea###Bloating###E.N.T.</item>
+        <item>Diarrhea###Nausea###EYE OR OPHTHALMOLOGY</item>
+        <item>Tuberculosis###A persistent cough###E.N.T.</item>
+        <item>Tuberculosis###Constant fatigue###MEDICINE</item>
+        <item>Tuberculosis###Weight loss###MEDICINE</item>
+        <item>Tuberculosis###Loss of appetite###MEDICINE</item>
+        <item>Tuberculosis###Fever###MEDICINE</item>
+        <item>Tuberculosis###Coughing up blood###MEDICINE</item>
+        <item>Tuberculosis###Night sweats###MEDICINE</item>
+        <item>Respiratory Infections###Nasal congestion###RHEUMATOLOGIST</item>
+        <item>Respiratory Infections###Runny nose###Natural Medicine</item>
+        <item>Respiratory Infections###Nasal discharge###Skin And Sex</item>
+        <item>Respiratory Infections###Nasal breathing###ORTHODONTICS</item>
+        <item>Respiratory Infections###Sneezing###Colorectal Surgery</item>
+        <item>Respiratory Infections###Sore or scratchy throat###ORTHODONTICS</item>
+        <item>Respiratory Infections###Painful swallowing###Dental</item>
+        <item>Respiratory Infections###Cough###GYNAECOLOGY</item>
+        <item>Preterm Birth Complications and Neonatal Encephalopathy###Low Apgar scores###SURGERY</item>
+        <item>Preterm Birth Complications and Neonatal Encephalopathy###A weak or absent cry at birth/delivery###PAIN SPECIALIST</item>
+        <item>Preterm Birth Complications and Neonatal Encephalopathy###Seizures###E.N.T.</item>
+        <item>Preterm Birth Complications and Neonatal Encephalopathy###Require resuscitation###EYE OR OPHTHALMOLOGY</item>
+        <item>Heart Diseases###Chest pain###CARDIOLOGY</item>
+        <item>Heart Diseases###Chest tightness###MEDICINE</item>
+        <item>Heart Diseases###Chest pressure###MEDICINE</item>
+        <item>Heart Diseases###Chest discomfort###MEDICINE</item>
+        <item>Heart Diseases###Shortness of breath###RHEUMATOLOGIST</item>
+        <item>Heart Diseases###Pain in legs###GYNAE and OBS</item>
+        <item>Heart Diseases###Numbness in legs###MEDICINE</item>
+        <item>Heart Diseases###Weakness in legs###Psychiatry and Psychotherapy</item>
+        <item>Heart Diseases###Coldness in legs###MEDICINE</item>
+        <item>Heart Diseases###Coldness in arms###Diabetes,Hormone and Medicine</item>
+        <item>Heart Diseases###Pain in the neck###MEDICINE</item>
+        <item>Heart Diseases###Pain in the jaw###MEDICINE</item>
+        <item>Heart Diseases###Pain in the throat###MEDICINE</item>
+        <item>Heart Diseases###Pain in the upper abdomen###Diabetes,Hormone and Medicine</item>
+        <item>Heart Diseases###Pain in the back###Nutrition</item>
+        <item>Hepatitis A###Fatigue###MEDICINE</item>
+        <item>Hepatitis A###Dark urine###Neurology and Medicine</item>
+        <item>Hepatitis A###Sudden nausea###Neurology and Medicine</item>
+        <item>Hepatitis A###vomiting###Liver and Medicine</item>
+        <item>Hepatitis A###Abdominal pain or discomfort###Liver and Medicine</item>
+        <item>Hepatitis A###Pain on the upper right side beneath your lower ribs(by your liver)###Gastroenterology and Medicine</item>
+        <item>Hepatitis A###Clay-colored bowel movements###Natural Medicine</item>
+        <item>Hepatitis A###Loss of appetite###Skin And Sex</item>
+        <item>Hepatitis A###Low-grade fever###Natural Medicine</item>
+        <item>Hepatitis A###Joint pain###Natural Medicine</item>
+        <item>Hepatitis E###Loss of appetite###Skin And Sex</item>
+        <item>Hepatitis E###Nausea###Natural Medicine</item>
+        <item>Hepatitis E###Fever###Skin And Sex</item>
+        <item>Hepatitis E###Fatigue###ORTHODONTICS</item>
+        <item>Hepatitis E###Vomiting###Colorectal Surgery</item>
+        <item>Hepatitis E###Abdominal pain###ORTHODONTICS</item>
+        <item>Hepatitis E###Jaundice###Colorectal Surgery</item>
+        <item>Hepatitis E###Dark urine###ORTHODONTICS</item>
+        <item>Hepatitis C###Feeling very tired###Dental</item>
+        <item>Hepatitis C###Sore muscles###ORTHODONTICS</item>
+        <item>Hepatitis C###Joint pain###Dental</item>
+        <item>Hepatitis C###Fever###GYNAECOLOGY</item>
+        <item>Hepatitis C###Nausea or poor appetite###GYNAECOLOGY</item>
+        <item>Hepatitis C###Stomach pain###SURGERY</item>
+        <item>Hepatitis C###Itchy skin###GYNAECOLOGY</item>
+        <item>Hepatitis C###Dark urine.###SURGERY</item>
+        <item>Typhoid fever###Headaches###PAIN SPECIALIST</item>
+        <item>Typhoid fever###Poor appetite###E.N.T.</item>
+        <item>Typhoid fever###Abdominal pain###PAIN SPECIALIST</item>
+        <item>Typhoid fever###Abdominal peritonitis###E.N.T.</item>
+        <item>Typhoid fever###Generalized aches###EYE OR OPHTHALMOLOGY</item>
+        <item>Typhoid fever###Generalized pains###CARDIOLOGY</item>
+        <item>Typhoid fever###Generalized weakness###EYE OR OPHTHALMOLOGY</item>
+        <item>Typhoid fever###High fever###CARDIOLOGY</item>
+        <item>Typhoid fever###Fever up to 104 F###MEDICINE</item>
+        <item>Typhoid fever###Lethargy###RHEUMATOLOGIST</item>
+        <item>Typhoid fever###Intestinal bleeding###MEDICINE</item>
+        <item>Typhoid fever###Intestinal perforation###RHEUMATOLOGIST</item>
+        <item>Typhoid fever###Cough###GYNAE and OBS</item>
+        <item>Malaria###Shaking chills###RHEUMATOLOGIST</item>
+        <item>Malaria###High fever###Psychiatry and Psychotherapy</item>
+        <item>Malaria###Profuse sweating###GYNAE and OBS</item>
+        <item>Malaria###Headache###Psychiatry and Psychotherapy</item>
+        <item>Malaria###Nausea###Diabetes,Hormone and Medicine</item>
+        <item>Malaria###Vomiting###Nutrition</item>
+        <item>Malaria###Abdominal pain###Diabetes,Hormone and Medicine</item>
+        <item>Malaria###Diarrhea###Nutrition</item>
+        <item>Dengue fever###Sudden high fever###Neurology and Medicine</item>
+        <item>Dengue fever###Severe headaches###Nutrition</item>
+        <item>Dengue fever###Pain behind the eyes###Neurology and Medicine</item>
+        <item>Dengue fever###Severe joint pain###Liver and Medicine</item>
+        <item>Dengue fever###Muscle pain###Neurology and Medicine</item>
+        <item>Dengue fever###Fatigue###Liver and Medicine</item>
+        <item>Dengue fever###Nausea###Gastroenterology and Medicine</item>
+        <item>Dengue fever###Vomiting###Liver and Medicine</item>
+        <item>Dengue fever###Skin rash two to five days###Gastroenterology and Medicine</item>
+        <item>Yellow fever###Fever###Natural Medicine</item>
+        <item>Yellow fever###Headache###Gastroenterology and Medicine</item>
+        <item>Yellow fever###Muscle aches in back###Natural Medicine</item>
+        <item>Yellow fever###Muscle aches in knees###Skin And Sex</item>
+        <item>Yellow fever###Sensitivity to light###Natural Medicine</item>
+        <item>Yellow fever###Nausea###Skin And Sex</item>
+        <item>Yellow fever###vomiting###ORTHODONTICS</item>
+        <item>Yellow fever###Loss of appetite###Skin And Sex</item>
+        <item>Yellow fever###Dizziness###ORTHODONTICS</item>
+        <item>Yellow fever###Red eyes###Colorectal Surgery</item>
+        <item>Yellow fever###Red face###ORTHODONTICS</item>
+        <item>Yellow fever###Red tongue###Colorectal Surgery</item>
+        <item>Plague###Abdominal pain###ORTHODONTICS</item>
+        <item>Plague###Diarrhea###Colorectal Surgery</item>
+        <item>Plague###Nausea###ORTHODONTICS</item>
+        <item>Plague###Vomiting###Dental</item>
+        <item>Plague###Fever###ORTHODONTICS</item>
+        <item>Plague###chills###Dental</item>
+        <item>Plague###Extreme weakness###GYNAECOLOGY</item>
+        <item>Plague###Bleeding###Dental</item>
+        <item>Plague###Shock###GYNAECOLOGY</item>
+        <item>Plague###Skin turning black###SURGERY</item>
+        <item>Chikungunya###Fever###GYNAECOLOGY</item>
+        <item>Chikungunya###Joint pain###SURGERY</item>
+        <item>Chikungunya###Headache###PAIN SPECIALIST</item>
+        <item>Chikungunya###Muscle pain###SURGERY</item>
+        <item>Chikungunya###Rash###PAIN SPECIALIST</item>
+        <item>Chikungunya###Swelling around the joints###E.N.T.</item>
+        <item>Leptospirosis###Fever###PAIN SPECIALIST</item>
+        <item>Leptospirosis###Chills###E.N.T.</item>
+        <item>Leptospirosis###Coughing###EYE OR OPHTHALMOLOGY</item>
+        <item>Leptospirosis###Diarrhea###E.N.T.</item>
+        <item>Leptospirosis###Vomiting###EYE OR OPHTHALMOLOGY</item>
+        <item>Leptospirosis###Headache###CARDIOLOGY</item>
+        <item>Leptospirosis###Muscle pain in lower back###EYE OR OPHTHALMOLOGY</item>
+        <item>Leptospirosis###Muscle pain in calves###CARDIOLOGY</item>
+        <item>Leptospirosis###Rash###MEDICINE</item>
+        <item>Leptospirosis###Red and irritated eyes###CARDIOLOGY</item>
+        <item>Leptospirosis###Jaundice###MEDICINE</item>
+        <item>Rabies###Irritability###MEDICINE</item>
+        <item>Rabies###Aggressiveness###MEDICINE</item>
+        <item>Rabies###Excessive movements or agitation###MEDICINE</item>
+        <item>Rabies###Strange thoughts###MEDICINE</item>
+        <item>Rabies###Hallucinations###RHEUMATOLOGIST</item>
+        <item>Rabies###Muscle spasms###MEDICINE</item>
+        <item>Rabies###Unusual postures###RHEUMATOLOGIST</item>
+        <item>Rabies###Seizures###MEDICINE</item>
+        <item>Rabies###Weakness###RHEUMATOLOGIST</item>
+        <item>Rabies###Short time Paralysis###MEDICINE</item>
+        <item>Hepatitis D###Yellowing of the skin###GYNAE and OBS</item>
+        <item>Hepatitis D###Yellowing of the eyes###Psychiatry and Psychotherapy</item>
+        <item>Hepatitis D###Joint pain###GYNAE and OBS</item>
+        <item>Hepatitis D###Abdominal pain###Psychiatry and Psychotherapy</item>
+        <item>Hepatitis D###Vomiting###Diabetes,Hormone and Medicine</item>
+        <item>Hepatitis D###Loss of appetite###Psychiatry and Psychotherapy</item>
+        <item>Hepatitis D###Dark urine###Nutrition</item>
+        <item>Hepatitis D###Fatigue###Diabetes,Hormone and Medicine</item>
+        <item>Jaundice###Fatigue###Nutrition</item>
+        <item>Jaundice###Abdominal pain###Neurology and Medicine</item>
+        <item>Jaundice###Weight loss###Liver and Medicine</item>
+        <item>Jaundice###Vomiting###Neurology and Medicine</item>
+        <item>Jaundice###Fever###Liver and Medicine</item>
+        <item>Jaundice###Pale stools###Gastroenterology and Medicine</item>
+        <item>Jaundice###Dark urine###Liver and Medicine</item>
+        <item>Acne###Whiteheads###Gastroenterology and Medicine</item>
+        <item>Acne###Blackheads###Natural Medicine</item>
+        <item>Acne###Small red, tender bumps###Gastroenterology and Medicine</item>
+        <item>Acne###Pimples###Natural Medicine</item>
+        <item>Acne###Large, solid, painful lumps beneath the surface of the skin###Natural Medicine</item>
+        <item>Common Cold###Runny or stuffy nose###Natural Medicine</item>
+        <item>Common Cold###Sore throat###Skin And Sex</item>
+        <item>Common Cold###Cough###Natural Medicine</item>
+        <item>Common Cold###Congestion###ORTHODONTICS</item>
+        <item>Common Cold###Slight body aches or a mild headache###Skin And Sex</item>
+        <item>Common Cold###Sneezing###ORTHODONTICS</item>
+        <item>Common Cold###Low-grade fever###Colorectal Surgery</item>
+        <item>Common Cold###Generally feeling unwell###Colorectal Surgery</item>
+        <item>Hypothyroidism###Fatigue###ORTHODONTICS</item>
+        <item>Hypothyroidism###Increased sensitivity to cold###Colorectal Surgery</item>
+        <item>Hypothyroidism###Constipation###ORTHODONTICS</item>
+        <item>Hypothyroidism###Dry skin###Dental</item>
+        <item>Hypothyroidism###Weight gain###ORTHODONTICS</item>
+        <item>Hypothyroidism###Puffy face###GYNAECOLOGY</item>
+        <item>Hypothyroidism###Hoarseness###Dental</item>
+        <item>Hypothyroidism###Muscle weakness###SURGERY</item>
+        <item>Hypoglycemia###Shakiness###GYNAECOLOGY</item>
+        <item>Hypoglycemia###Dizziness###SURGERY</item>
+        <item>Hypoglycemia###Sweating###PAIN SPECIALIST</item>
+        <item>Hypoglycemia###Hunger###SURGERY</item>
+        <item>Hypoglycemia###Irritability or moodiness###PAIN SPECIALIST</item>
+        <item>Hypoglycemia###Anxiety or nervousness###E.N.T.</item>
+        <item>Hypoglycemia###Headache###PAIN SPECIALIST</item>
+        <item>Arthritis###Pain###E.N.T.</item>
+        <item>Arthritis###Stiffness###EYE OR OPHTHALMOLOGY</item>
+        <item>Arthritis###Swelling###E.N.T.</item>
+        <item>Arthritis###Redness###EYE OR OPHTHALMOLOGY</item>
+        <item>Arthritis###Decreased range of motion###CARDIOLOGY</item>
+        <item>Osteoarthritis###Pain in affected joints###EYE OR OPHTHALMOLOGY</item>
+        <item>Osteoarthritis###Stiffness###CARDIOLOGY</item>
+        <item>Osteoarthritis###Tenderness###RHEUMATOLOGIST</item>
+        <item>Osteoarthritis###Loss of flexibility###RHEUMATOLOGIST</item>
+        <item>Osteoarthritis###Grating sensation###GYNAE and OBS</item>
+        <item>Osteoarthritis###Bone spurs###Psychiatry and Psychotherapy</item>
+        <item>Osteoarthritis###Swelling###GYNAE and OBS</item>
+        <item>Psoriasis###Red inflamed patches of skin###Psychiatry and Psychotherapy</item>
+        <item>Psoriasis###Whitish-silver scales###Diabetes,Hormone and Medicine</item>
+        <item>Psoriasis###Plaques on the red patches###Psychiatry and Psychotherapy</item>
+        <item>Psoriasis###Dry skin that may crack and bleed###Diabetes,Hormone and Medicine</item>
+        <item>Psoriasis###Soreness around patches###Nutrition</item>
+        <item>Psoriasis###Itching and burning sensations around patches###Neurology and Medicine</item>
+        <item>Psoriasis###Thick and pitted nails###Nutrition</item>
+        <item>Psoriasis###Painful and swollen joints###Liver and Medicine</item>
+        <item>Urinary tract infection###A burning feeling when you pee###Gastroenterology and Medicine</item>
+        <item>Urinary tract infection###A frequent or intense urge to pee, even though little comes out when you do###Liver and Medicine</item>
+        <item>Urinary tract infection###Cloudy, dark, bloody, or strange-smelling pee###ORTHODONTICS</item>
+        <item>Urinary tract infection###Feeling tired or shaky###ORTHODONTICS</item>
+        <item>Urinary tract infection###Fever or chills###ORTHODONTICS</item>
+        <item>Urinary tract infection###Pain or pressure in your back or lower abdomen###ORTHODONTICS</item>
+    </string-array>
+</resources>

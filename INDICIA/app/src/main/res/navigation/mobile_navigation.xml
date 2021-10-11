@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_predictor">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.indicia.indicia.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_predictor"
+        android:name="com.indicia.indicia.ui.predictor.DiseasePredictorFragment"
+        android:label="@string/title_disease_predictor"
+        tools:layout="@layout/fragment_predictor" />
+
+    <fragment
+        android:id="@+id/navigation_chatbot"
+        android:name="com.indicia.indicia.ui.chatbot.ChatBotFragment"
+        android:label="@string/title_chatbot"
+        tools:layout="@layout/fragment_chatbot" />
+
+    <fragment
+        android:id="@+id/navigation_finder"
+        android:name="com.indicia.indicia.ui.finder.FinderFragment"
+        android:label="@string/title_finder"
+        tools:layout="@layout/fragment_finder" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.indicia.indicia.ui.settings.SettingsFragment"
+        android:label="@string/title_settings"
+        tools:layout="@layout/fragment_settings" />
+
+</navigation>

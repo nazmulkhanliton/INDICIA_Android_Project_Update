@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="doctors">
+        <item>Natural Medicine###Assoc. Prof. Dr. M. Sadul Haque###600###Visit time 10:00AM to 1:00PM Friday Closed</item>
+        <item>Natural Medicine###Dr Afzal Momin (old), MBBS, MD (Neurology)###800###Visit Time  4:30PM - 9:00PM </item>
+        <item>Natural Medicine###Dr. Kazi Jannat Ara, MBBS (DU), FCPS (Neurology) BSMMU###700###Visit Time 5.00PM-8.00PM</item>
+        <item>Skin And Sex###Assoc. Prof. Dr Yasmin Joarder, MBBS(DU), DDV (DMC)###600###Visit Time 10:00 AM - 1:00PM</item>
+        <item>ORTHODONTICS###Assr. Prof. Dr. Md. Wazed Ali, FCPS(Orthodontics), DDS, BDS FELLOW, WFO(USA)###1000###Visit Time  4PM-6PM</item>
+        <item>ORTHODONTICS###Asst. Prof. Dr. Md. Wahiduzzaman, MBBS, FCPS, MS (ENT)###500###Visit Time 7.30PM - 9.30PM</item>
+        <item>ORTHODONTICS###Dr. Wakil Ahmed###500###Visit Time 7.00PM -10.00 PM</item>
+        <item>Colorectal Surgery###Asst. Prof. Dr. Md. Rezwan Shah, MBBS(CMC), FCPS(Surgery)###600###Visit Time  6:00PM -9:00 PM</item>
+        <item>Dental### Dr. Fouad Al-Hasanat###400###Visit Time  5 PM - 9 PM</item>
+        <item>Dental###Dr. Md. Wazed Ali###400###Visit Time 4 PM - 6 PM</item>
+        <item>Dental###Dr. Mosharof Hossain###400###Visit Time 9 AM - 2 PM</item>
+        <item>Dental###Professor Dr. Mohammad Shafi Ullah###400###Visit Time 6 PM - 9 PM</item>
+        <item>Dental###Dr. Sharmin Sultana###400###Visit Time 9.00 AM -2.00 PM</item>
+        <item>Dental###Prof. Dr. Nurul Amin###400###Visit Time 7:00 PM - 9:00 PM</item>
+        <item>GYNAECOLOGY###Asst. Prof. Dr.Musarrat Sultana (Sumi).MBBS,FCPS,MS.###800###Visit Time 5.30PM-8.00PM</item>
+        <item>SURGERY###Brig. Gen. Prof. Md. Saidur Rahman (Retd.)###800###Visit Time 6 PM - 8 PM</item>
+        <item>SURGERY###Professor Dr. Anwarul Azim###500###Visit Time 10.00 AM - 1.00 PM</item>
+        <item>SURGERY###Dr. Tahmina Satter###700###Visit Time 4:30 PM -8:30 PM</item>
+        <item>SURGERY###Dr. M. Mohibul Aziz###1000###Visit Time 6:30pm to 8:30pm</item>
+        <item>PAIN SPECIALIST###Brig: Gen. (Prof.). Dr. M.H.M. Delwar Hossain.MBBS.,DA.,MCPS.,FCPS (Anaesth).###1000###Visit Time  5.00PM-6.30PM </item>
+        <item>E.N.T.###Brig. Gen. Prof. Dr. MS Khurshid Alam, (Evening) MBBS., DLO., FCPS###1000###Visit Time 6:00PM-9.00PM</item>
+        <item>E.N.T.###Lt. Col. Prof (Retd.) Md. Abdullah Hel Kafi, MBBS, MCPS, FCPS.###800###Visit Time  4.00PM-7.00PM</item>
+        <item>E.N.T.###Dr. Md. Wahiduzzaman###900###Visit Time  7:30 PM - 9:30 PM</item>
+        <item>E.N.T.###Professor Dr. Md. Zillur Rahman###500###Visit Time  10 AM - 12.30 PM</item>
+        <item>E.N.T.###Lt. Colonel (Retd) Prof. Dr. Md. Abdullah Hel Kafi###700###Visit Time  10 AM - 12.30 PM</item>
+        <item>E.N.T.###Professor Dr. Md. Arif Hossain Bhuyan###600###Visit Time  5.30 PM - 9 PM</item>
+        <item>E.N.T.###Professor Brig. Gen. (R.) MS Khurshid Alam###500###Visit Time  7:30 PM - 8:30 PM</item>
+        <item>E.N.T.###Professor Dr. Kamrul Hassan Tarafder###900###Visit Time  9.30 PM -10.30 PM</item>
+        <item>EYE OR OPHTHALMOLOGY###Dr. AKM Nazmus Saquib,(EVENING) MBBS., PhD.,DO., FEPS, FRSH, MAMS.###1000###Visit Time 5:00PM- 8:00PM</item>
+        <item>CARDIOLOGY###Assoc. Prof. Dr. Md. Shafiqur Rahman Patwary, MBBS,MD,FCPS,MCPS.###700###Visit Time 2.30PM- 3.30PM</item>
+        <item>CARDIOLOGY###Prof. Dr. M. Touhidul Haque###800###Visit Time 6:00 PM -11:00 PM</item>
+        <item>CARDIOLOGY###Dr. Md Monsurul Haque###700###Visit Time 6.00 PM -8 PM</item>
+        <item>CARDIOLOGY###Dr. Md. Shafiqur Rahman Patwary###500###Visit Time 2:30 PM-3.30 PM</item>
+        <item>CARDIOLOGY###Prof. Dr. S M. Siddiqur Rahman###600###Visit Time 6.00 PM - 8.30 PM</item>
+        <item>CARDIOLOGY###Dr. Sufia Jannat###700###Visit Time 6 PM -9 PM</item>
+        <item>MEDICINE###DR. SAKINA ANWAR, MBBS, MD.###700###Visit Time 7.00PM-9.00PM</item>
+        <item>MEDICINE###Dr. Syed Mohammad Arif, MBBS, FCPS, MD.###700###Visit Time 4.00PM-8:00PM</item>
+        <item>MEDICINE###Prof. Md. Ayub Ali Chowdhury###700###Visit Time 5:00PM - 11:00 PM</item>
+        <item>MEDICINE###Dr. Ahmed Manadir Hossain, MBBS, D-Card, FCPS###600###Visit Time 6.30 PM to 9.00 PM</item>
+        <item>MEDICINE###Dr. Hasinatul Zannat###800###Visit Time 5:30pm to 8:30pm</item>
+        <item>MEDICINE###Prof. Dr. M.A Baqui###900###Visit Time 9 AM- 2 PM</item>
+        <item>MEDICINE###Professor Dr. Mirza Mohammad Hiron###600###Visit Time 7:00 PM -10:00 PM</item>
+        <item>MEDICINE###Dr. M. Delwar Hossain###900###Visit Time 10AM-1PM and 7PM- 9PM</item>
+        <item>MEDICINE###Professor Dr. Mohammad Rofiqul Islam###700###Visit Time 6.30 PM -8.30 PM</item>
+        <item>RHEUMATOLOGIST###Asst. Prof. Dr. A.K. Ahmedullah, MBBS, MD (Internal Medicine), MD (Rheumatology)###800###Visit Time 4:00PM -7:00PM</item>
+        <item>GYNAE and OBS###Dr. Fahmida Bayes Kakan, MBBS, MS (GYNAE and OBS)###500###Visit Time 6:00 PM - 9:00PM</item>
+        <item>Psychiatry and Psychotherapy###Professor Dr. Jhunu Shamsun Nahar###600###Visit Time  6.00 PM -8.30 PM</item>
+        <item>Psychiatry and Psychotherapy###Prof. Dr. AHM Mustafizur Rahman###1000###Visit Time  12:00 PM -1:00 PM</item>
+        <item>Diabetes,Hormone and Medicine###Dr. Md. Tayeb Hossain###1000###Visit Time  8.00 AM - 2.00 PM</item>
+        <item>Diabetes,Hormone and Medicine###Dr. Md. Mahmudul Kabir###800###Visit Time  5:00 PM - 8:00 PM</item>
+        <item>Diabetes,Hormone and Medicine###Dr. Zobaida Naznin###700###Visit Time  6 PM - 8 PM</item>
+        <item>Diabetes,Hormone and Medicine###Dr. Sultana Marufa Shafin###900###Visit Time  3.30 PM - 7.00 PM</item>
+        <item>Diabetes,Hormone and Medicine###Dr. M.A Azad###800###Visit Time  8.00AM -2.00 PM</item>
+        <item>Diabetes,Hormone and Medicine###Dr. Mahmudul Haque###600###Visit Time  9 PM - 10:30 PM</item>
+        <item>Nutrition###Sumaiya Shahnaz###700###Visit Time  10 AM - 1 PM</item>
+        <item>Neurology and Medicine###DR. MD. RAKAN-UZ-ZAMAN###700###Visit Time  5:00 PM to 8:00 PM</item>
+        <item>Neurology and Medicine###Dr. Md. Nahidul Islam (Nahid)###700###Visit Time  4 PM- 7 PM</item>
+        <item>Neurology and Medicine###Dr. Afzal Momin###700###Visit Time  4:30 PM - 9:00 PM</item>
+        <item>Neurology and Medicine###Prof. Dr. Md. Mahbubur Rahman Major (Retd.)###700###Visit Time 11 AM-1 PM and 6 PM - 9 PM</item>
+        <item>Neurology and Medicine###Professor Dr. Md. Abdul Hayee###700###Visit Time  6:00 PM - 11:00 PM</item>
+        <item>Neurology and Medicine###Professor Dr. Syed Wahidur Rahman###700###Visit Time  5.00 PM - 7.00 PM</item>
+        <item>Liver and Medicine###Dr. Md. Shahinul Alam###700###Visit Time  6:00 PM - 11:00 PM</item>
+        <item>Gastroenterology and Medicine###Dr. Mostofa Showkat Imran###500###Visit Time  6.00 PM-9.00 PM</item>
+        <item>Gastroenterology and Medicine###Dr. Shereen Ahmed###800###Visit Time 7:00 PM - 9:00 PM</item>
+        <item>Gastroenterology and Medicine###Professor Dewan Saifuddin Ahmed###1000###Visit Time  5:00 PM - 10:00 PM</item>
+        <item>Gastroenterology and Medicine###Prof. Dr. Brig. Gen. (Retd) Md. Mokhlesur Rahman###500###Visit Time  5.00 PM - 7.00 PM</item>
+    </string-array>
+</resources>

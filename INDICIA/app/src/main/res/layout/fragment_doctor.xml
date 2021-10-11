@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_doctor"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:padding="10dp"
+            android:src="@drawable/image_doctor" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="8dp"
+            android:background="#F0B3BD" />
+
+        <TextView
+            android:id="@+id/doctor_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:text="Doctor Name"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/doctor_visiting_fee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:gravity="center"
+            android:text="Visiting Fee"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:text="Details"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="WARNING!\nWE DO NOT GUARANTEE ALL THE INFORMATIONS ARE ACCURATE"
+            android:textColor="@color/colorRed"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_take_appointment"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_predict_disease_shape"
+        android:text="Take Appointment"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button_back_to_doctors_from_doctor"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_predict_disease_shape"
+        android:text="Back"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:textSize="18sp" />
+</LinearLayout>

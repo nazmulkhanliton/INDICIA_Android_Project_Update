@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_disease_predictor"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textview_disease_predictor_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:layout_weight="0"
+        android:fontFamily="@font/nunito_bold"
+        android:text="Disease Predictor"
+        android:textAlignment="center"
+        android:textColor="#555555"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/edittext_search_symptoms"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/edittext_symptom_search_shape"
+        android:ems="10"
+        android:fontFamily="@font/nunito_bold"
+        android:hint="Search Here"
+        android:inputType="textPersonName"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="10dp"
+        android:textColor="#999999"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/button_search_symptoms"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_search_symptoms_shape"
+        android:text="Show All"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:textSize="18sp" />
+
+    <ListView
+        android:id="@+id/listview_symptoms"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/button_predict_disease"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_predict_disease_shape"
+        android:text="Predict Disease"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:textSize="18sp" />
+
+</LinearLayout>

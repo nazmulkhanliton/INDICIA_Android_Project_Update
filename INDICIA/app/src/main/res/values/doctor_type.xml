@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="doctor_type">
+        <item>Natural Medicine</item>
+        <item>Skin And Sex</item>
+        <item>ORTHODONTICS</item>
+        <item>Colorectal Surgery</item>
+        <item>ORTHODONTICS</item>
+        <item>Dental</item>
+        <item>GYNAECOLOGY</item>
+        <item>SURGERY</item>
+        <item>PAIN SPECIALIST</item>
+        <item>E.N.T.</item>
+        <item>EYE OR OPHTHALMOLOGY</item>
+        <item>CARDIOLOGY</item>
+        <item>MEDICINE</item>
+        <item>RHEUMATOLOGIST</item>
+        <item>GYNAE and OBS</item>
+        <item>Psychiatry and Psychotherapy</item>
+        <item>Diabetes,Hormone and Medicine</item>
+        <item>Nutrition</item>
+        <item>Neurology and Medicine</item>
+        <item>Liver and Medicine</item>
+        <item>Gastroenterology and Medicine</item>
+    </string-array>
+</resources>
